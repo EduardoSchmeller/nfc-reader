@@ -98,7 +98,3 @@ O aplicativo estará rodando em **http://localhost:5000** e você poderá acessa
 - **Armazenar as informações em um banco de dados**: Integrar o sistema a um banco de dados para armazenar as informações das notas fiscais de maneira mais eficiente e escalável.
 - **Criar um aplicativo para ler os QR Codes**: Desenvolver um aplicativo (mobile ou desktop) para facilitar a leitura dos QR Codes diretamente, tornando o processo ainda mais ágil.
 - **Melhorar a planilha para disposição dos dados**: Aperfeiçoar a apresentação dos dados na planilha do Google Sheets, facilitando a análise e o controle financeiro com gráficos e visualizações mais intuitivas.
-
----
-
-Agora, o README também inclui as instruções para rodar o projeto. Caso precise de mais alguma modificação, estou à disposição!
