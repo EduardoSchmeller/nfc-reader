@@ -62,6 +62,13 @@ Com os dados extraídos da nota fiscal, o serviço gera uma lista de arrays cont
 - **Google Sheets API**: Para armazenar as informações extraídas em uma planilha.
 - **Python**: Linguagem de programação utilizada no desenvolvimento do serviço.
 
+## Demonstração
+
+Aqui está uma demonstração do funcionamento da aplicação:
+![2025-02-05 14-28-15](https://github.com/user-attachments/assets/2cbe8df8-2ddd-4c32-9b52-c7326ba2e81c)
+
+
+
 ## Como Rodar
 
 Para rodar o projeto, siga os passos abaixo:
